@@ -1,7 +1,18 @@
 body {
-    background-image: linear-gradient(to right, #ffdcb3, #ffaa49);
+    background-image: linear-gradient(to left, #79fcab, #bfffd8);
 }
 
 .header {
+    text-align: center;
+    font-size: 70px;
+    color: rgb(140, 13, 151);
+}
 
+.image {
+    text-align: center;
+}
+
+.axolotl {
+    height: auto;
+    width: 400px;
 }
